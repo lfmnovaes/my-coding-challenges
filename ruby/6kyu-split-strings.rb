@@ -9,5 +9,5 @@ end
 
 p solution('abc') #  ["ab", "c_"]
 p solution('abcdef') # ["ab", "cd", "ef"]
-p solution("abcdefg") # ["ab", "cd", "ef", "g_"]
-p solution("") # []
+p solution('abcdefg') # ["ab", "cd", "ef", "g_"]
+p solution('') # []
