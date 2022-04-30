@@ -1,5 +1,4 @@
 // https://www.hackerrank.com/challenges/compare-the-triplets/problem
-
 /*
  * Complete the 'compareTriplets' function below.
  *
