@@ -1,5 +1,5 @@
 <?php 
-/* Find Intersection
+/* Find Intersection - coderbyte.com
   Have the function FindIntersection(strArr) read the array of strings stored in
   strArr which will contain 2 elements: the first element will represent a list
   of comma-separated numbers sorted in ascending order, the second element will

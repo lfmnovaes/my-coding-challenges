@@ -1,5 +1,5 @@
 <?php
-/* Questions Marks
+/* Questions Marks - coderbyte.com
   Have the function QuestionsMarks(str) take the str string parameter, which will
   contain single digit numbers, letters, and question marks, and check if there are
   exactly 3 question marks between every pair of two numbers that add up to 10.
